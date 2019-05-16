@@ -22,7 +22,7 @@ import com.nightfarmer.smartcamera.CameraInfo;
  */
 
 public class SnapView extends View {
-    int maxDelay = 10 * 1000;//10秒
+    int maxDelay = 60 * 1000;//10秒
 
 
     private int measuredWidth;
